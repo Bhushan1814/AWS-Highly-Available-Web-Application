@@ -21,10 +21,6 @@ The application is deployed across two Availability Zones to improve availabilit
 - Monitor infrastructure using Amazon CloudWatch.
 - Test automatic instance replacement and load balancing.
 
-## 🏗️ Architecture Diagram
-
-![AWS Architecture](architecture/architecture.png)
-
 ### Architecture Workflow
 
 1. Users send HTTP requests to the application.
